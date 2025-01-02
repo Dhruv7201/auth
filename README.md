@@ -11,7 +11,7 @@ This is a simple JWT authentication package for FastAPI that provides:
 ## Installation
 
 ```bash
-pip install jwt_auth
+pip install jwt-auth-provider
 ```
 
 ## Usage

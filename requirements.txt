@@ -1,3 +1,4 @@
 fastapi
 pyjwt
 passlib
+python-dotenv

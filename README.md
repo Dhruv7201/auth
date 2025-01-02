@@ -22,7 +22,7 @@ pip install jwt_auth
 from jwt_auth.auth import create_access_token
 
 # Create a JWT token
-access_token = create_access_token({"sub": "username"})
+access_token = create_access_token({"sub": "username"}, secret_key, algorithm)
 ```
 
 ### 2. Use the dependency in FastAPI:

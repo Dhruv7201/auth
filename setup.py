@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="jwt_auth",
+    name="jwt_auth_provider",
     version="0.1",
     packages=find_packages(),
     install_requires=[

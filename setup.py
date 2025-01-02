@@ -13,12 +13,11 @@ setup(
     description="JWT authentication package for FastAPI",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/jwt_auth",
+    author="Dhruv Modi",
+    author_email="dhruv.modi2345@gmail.com",
+    url="https://github.com/Dhruv7201/auth",
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
 )
